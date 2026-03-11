@@ -10,7 +10,7 @@ The easiest way to run the tutorials is to use Colab:
 | Tutorial                                         |  |
 |--------------------------------------------------|---|
 | Ring of Fire                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/00_ring_of_fire.ipynb) |
-| PGV from data                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/02_pgv_data.ipynb) |
+| PGV from data                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/02_pga_data.ipynb) |
 | Magnitude-frequency relation            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/03_mag_fre.ipynb) |
 | PGA calculation using different GMPE    s| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/04_pga_cal.ipynb) |
 | PSHA calculation from GMPE              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/05_p_d_SHA.ipynb) |
