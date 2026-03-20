@@ -15,6 +15,10 @@ The easiest way to run the tutorials is to use Colab:
 | PGA calculation using different GMPE    s| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/04_pga_cal.ipynb) |
 | PSHA calculation from GMPE              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/05_p_d_SHA.ipynb) |
 | Hazard Maps                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/06_haz_map.ipynb) |
+| Synthetic InSAR                         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/07_synth_InSAR.ipynb) |
+| Okada                                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/08_okada.ipynb) |
+| 2D Acoustic Wave Equation               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/eqhaz-exercise/blob/main/09_acoustic_2dfd.ipynb) |
+
 
 ## Run the Tutorials Locally
 
